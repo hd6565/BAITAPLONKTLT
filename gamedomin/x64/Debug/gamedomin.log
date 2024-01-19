@@ -1,0 +1,11 @@
+﻿  Hamxuli.cpp
+C:\c++ trong visual\gamedomin\gamedomin\Hamxuli.cpp(162,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\c++ trong visual\gamedomin\gamedomin\Hamxuli.cpp(559,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\c++ trong visual\gamedomin\gamedomin\Hamxuli.cpp(562,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\c++ trong visual\gamedomin\gamedomin\Hamxuli.cpp(565,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\c++ trong visual\gamedomin\gamedomin\Hamxuli.cpp(573,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\c++ trong visual\gamedomin\gamedomin\Hamxuli.cpp(576,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\c++ trong visual\gamedomin\gamedomin\Hamxuli.cpp(579,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\c++ trong visual\gamedomin\gamedomin\Hamxuli.cpp(582,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\c++ trong visual\gamedomin\gamedomin\Hamxuli.cpp(585,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+  gamedomin.vcxproj -> C:\c++ trong visual\gamedomin\x64\Debug\gamedomin.exe
